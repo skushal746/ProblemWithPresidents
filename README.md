@@ -21,6 +21,7 @@ Good Luck!
 
 ## Solution:
 
+I have used python and pandas for the analysis. Added year_of_birth, lived_years, lived_months, lived_days columns in the dataframe. Used in-built apis provided by pandas to calculate aggregates of the number of days lived by the presidents. 
 
 References:
 https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Chemical_Process_Dynamics_and_Controls_(Woolf)/13%3A_Statistics_and_Probability_Background/13.01%3A_Basic_statistics-_mean%2C_median%2C_average%2C_standard_deviation%2C_z-scores%2C_and_p-value
