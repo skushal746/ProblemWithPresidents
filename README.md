@@ -17,7 +17,9 @@ Assemble your tables and plot into a single report with a title, author and date
 
 To finish commit all your code and your report to your personal Github repository and then email back CTS-IT with a link to your completed problem.
 
-Good Luck!   
+Good Luck!
+
+## Solution:
 
 
 References:
